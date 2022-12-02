@@ -1,5 +1,5 @@
 
-# Please <a href="https://github1s.com/ShubhamPal05/BookMyShow-BackEnd">visit here </a> to read the code in VS Code IDE
+# Please <a target="_blank" href="https://github1s.com/ShubhamPal05/BookMyShow-BackEnd">visit here </a> to read the code in VS Code IDE
 (navigate to: src/main/java/com/example/bookmyshow/)
 
 ### 1. Backend part of ticket booking system
