@@ -5,4 +5,5 @@
 ### 1. Backend part of ticket booking system
 ### 2. Created different layers of spring-boot-architecture
 ### 3. Created various APIs to call different controller layer methods
-### 4. Tech stack: java, spring-boot, JPA and Hibernate
+### 4. Used MySQL database
+### 5. Tech stack: java, spring-boot, JPA and Hibernate, MySQL
